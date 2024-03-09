@@ -1,0 +1,10 @@
+.course {
+    border: none;
+    border-bottom: 20px;
+    outline: none;
+}
+
+.course option {
+    border-bottom: 10px;
+
+}
